@@ -12,10 +12,7 @@ Legend and color scheme:
 https://bl.ocks.org/mbostock/5562380
 
 
-Jonathan Ortiz
-
-Instructor: Suresh Lodha
-
-CMPS 165: Data Programming for Visualization
-
-Spring 2018
+Jonathan Ortiz  
+Instructor: Suresh Lodha  
+CMPS 165: Data Programming for Visualization  
+Spring 2018  
