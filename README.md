@@ -6,11 +6,9 @@ This is a d3 visualization of the projected population in Colombia for 2020 acco
 https://github.com/jolortiz/ColombiaPopulation2020
 
 Population Data:
-
 https://data.humdata.org/group/col
 
 Legend and color scheme:
-
 https://bl.ocks.org/mbostock/5562380
 
 
